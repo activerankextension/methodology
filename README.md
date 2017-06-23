@@ -23,3 +23,5 @@ If you have suggestions of better ways to implement the ranking, or better sourc
 Our mission is to help make data on women in the workplace more accessible. Basically, just be a decent human being. 
 
 Please contribute to this repo and pull request - this proof of concept is nowhere near a perfect system and any help is much appreciated!
+
+MIT License
